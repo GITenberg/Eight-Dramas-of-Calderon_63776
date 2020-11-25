@@ -1,0 +1,47 @@
+_repo: Eight-Dramas-of-Calderon_63776
+_version: 0.0.1
+alternative_title: 8 dramas of Calderón
+contributor:
+  translator:
+    agent_name: FitzGerald, Edward
+    alias: Purcell, Edward
+    birthdate: 1809
+    deathdate: 1883
+    gutenberg_agent_id: '138'
+    url: http://www.gutenberg.org/2009/agents/138
+    wikipedia: https://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+creator:
+  author:
+    agent_name: Calderón de la Barca, Pedro
+    aliases:
+    - Barca, Pedro Calderon de la
+    - Calderon de la Barca, Pedro
+    - Barca, Pedro Calderón de la
+    birthdate: 1600
+    deathdate: 1681
+    gutenberg_agent_id: '970'
+    url: http://www.gutenberg.org/2009/agents/970
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca
+    - https://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
+description: ''
+gutenberg_issued: '2020-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63776'
+  lccn: '07015535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Calderón de la Barca, Pedro, 1600-1681 -- Translations into English'
+- !lcsh 'Spanish drama -- Translations into English'
+- GITenberg
+tableOfContents: Advertisement -- The painter of his own dishonour -- Keep your own
+  secret -- Gil Perez, the Gallician -- Three judgments at a blow -- Mayor of Zalamea
+  -- Beware of smooth water -- The mighty magician -- Such stuff as dreams are made
+  of.
+title: Eight Dramas of Calderon
+url: http://www.gutenberg.org/ebooks/63776
