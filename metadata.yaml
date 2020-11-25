@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '138'
     url: http://www.gutenberg.org/2009/agents/138
     wikipedia: https://en.wikipedia.org/wiki/Edward_FitzGerald_%28poet%29
+covers:
+- cover_type: archival
+  image_path: 63776-h/images/cover.jpg
 creator:
   author:
     agent_name: Calderón de la Barca, Pedro
@@ -25,6 +28,8 @@ creator:
     - https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca
     - https://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63776#Eight-Dramas-of-Calderon
 gutenberg_issued: '2020-11-15'
 gutenberg_type: Text
 identifiers:
